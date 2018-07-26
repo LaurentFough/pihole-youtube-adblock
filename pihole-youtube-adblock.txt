@@ -1,5 +1,6 @@
 ### Youtube Ad-Block-List for PiHole by HenningVanRäumle ###
 
+## ref-0: https://github.com/HenningVanRaumle/pihole-ytadblock/blob/master/ytadblock.txt
 ## ref-1: https://www.reddit.com/r/dropgoogle/comments/5tnjxl/block_youtube_ads_2017_hosts_file/
  
 # also blocks:
