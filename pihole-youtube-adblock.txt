@@ -16,9 +16,9 @@
 0.0.0.0 ads.doubleclick.net
 0.0.0.0 ads.youtube.com
 0.0.0.0 analytic-google.com
-0.0.0.0 apis.google.com
-0.0.0.0 clients.l.google.com
-0.0.0.0 clients1.google.com
+# 0.0.0.0 apis.google.com
+# 0.0.0.0 clients.l.google.com
+# 0.0.0.0 clients1.google.com
 0.0.0.0 doubleclick.net
 0.0.0.0 dts.innovid.com
 0.0.0.0 files.adform.net
@@ -27,7 +27,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
-0.0.0.0 gstatic.com
+# 0.0.0.0 gstatic.com
 0.0.0.0 innovid.com
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead.l.doubleclick.net
@@ -107,7 +107,7 @@
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 s.innovid.com
 0.0.0.0 s.youtube.com
-0.0.0.0 s.ytimg.com
+# 0.0.0.0 s.ytimg.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 securepubads.g.doubleclick.net
